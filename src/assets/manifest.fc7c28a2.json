@@ -1,0 +1,58 @@
+{
+    "name": "Yasio portfolio",
+    "short_name": "Yasio",
+    "description": "My new portfolio site",
+    "publicPath": "//assets/",
+    "icons": [
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-vue-2019.appspot.com/o/android-chrome-192x192.png?alt=media&token=ef2d6adc-08df-4f58-a528-1020eb0e3e97",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://firebasestorage.googleapis.com/v0/b/portfolio-vue-2019.appspot.com/o/android-chrome-512x512.png?alt=media&token=b419ff08-23d1-4372-a2c1-d57b1ff21965",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon_64.9paqQBFB6CM.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon_120.9paqQBFB6CM.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon_144.9paqQBFB6CM.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon_152.9paqQBFB6CM.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon_192.9paqQBFB6CM.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon_384.9paqQBFB6CM.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon_512.9paqQBFB6CM.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/?standalone=true",
+    "display": "standalone",
+    "background_color": "#5918df",
+    "theme_color": "#5918df",
+    "lang": "pl"
+}
